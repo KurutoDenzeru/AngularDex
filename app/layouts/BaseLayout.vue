@@ -66,7 +66,7 @@
   import { useSEO, type SEOConfig } from '@/utils/seo'
   import { Toaster } from '@/components/ui/sonner'
   import ThemeToggle from '@/components/ThemeToggle.vue'
-  import SiteFooter from '@/components/ui/SiteFooter.vue'
+  import SiteFooter from '@/components/SiteFooter.vue'
   import MobileDock from '@/components/navigation/MobileDock.vue'
   import Button from '@/components/ui/button/Button.vue'
   import PokemonSearch from '@/components/pokemon/PokemonSearch.vue'

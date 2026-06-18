@@ -159,7 +159,7 @@
   // Components
   import { Label } from '@/components/ui/label'
   import { Button } from '@/components/ui/button'
-  import GlareCard from '@/components/ui/GlareCard.vue'
+  import GlareCard from '@/components/GlareCard.vue'
   import Skeleton from '@/components/ui/skeleton/Skeleton.vue'
   import ImageSkeleton from '@/components/pokemon/ImageSkeleton.vue'
   import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'

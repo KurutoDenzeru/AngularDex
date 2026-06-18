@@ -132,6 +132,6 @@
 <script setup lang="ts">
   import { Card } from '@/components/ui/card'
   import { Github, Linkedin, Instagram, Home, BookOpen, Info, Scale, Boxes } from 'lucide-vue-next'
-  import AboutDialog from '@/components/ui/AboutDialog.vue'
+  import AboutDialog from '@/components/AboutDialog.vue'
   import ThemeToggle from '@/components/ThemeToggle.vue'
 </script>

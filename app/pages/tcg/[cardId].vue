@@ -888,7 +888,7 @@
   import { Badge } from '@/components/ui/badge'
   import { Label } from '@/components/ui/label'
   import { Button } from '@/components/ui/button'
-  import GlareCard from '@/components/ui/GlareCard.vue'
+  import GlareCard from '@/components/GlareCard.vue'
   import BaseLayout from '@/layouts/BaseLayout.vue'
   import type { SEOConfig } from '@/utils/seo'
   import Skeleton from '@/components/ui/skeleton/Skeleton.vue'

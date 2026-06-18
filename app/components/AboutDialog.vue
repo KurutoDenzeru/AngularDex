@@ -1,5 +1,5 @@
 <script setup lang="ts">
-  import { Dialog, DialogTrigger, DialogContent, DialogTitle, DialogDescription, DialogFooter, DialogClose } from './dialog'
+  import { Dialog, DialogTrigger, DialogContent, DialogTitle, DialogDescription, DialogFooter, DialogClose } from './ui/dialog'
   import { Button } from '@/components/ui/button'
   import { Info, Github, Linkedin, Instagram } from 'lucide-vue-next'
 </script>
